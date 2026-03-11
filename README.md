@@ -13,8 +13,11 @@ Es sencillo, esquiva los meteoriotos y agarra a todos tus amigos aliens intenta 
 ### CONTROLES
 
 W -> ARRIBA
+
 S -> ABAJO
+
 A -> IZQUIERDA
+
 D -> DERECHA
 
 
@@ -22,7 +25,7 @@ D -> DERECHA
 
 1. CLONA EL REPOSITORIO:
 
-    comando : git clone https://github.com/tuusuario/meteor-dodge.git
+    comando : git clone https://github.com/Nicolas-Menin/meteor-dodge.git
 
 2. ENTRA A LA CARPETA:
 
